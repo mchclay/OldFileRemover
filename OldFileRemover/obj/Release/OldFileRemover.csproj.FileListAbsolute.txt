@@ -1,0 +1,19 @@
+C:\VS Projects\OldFileRemover\OldFileRemover\bin\Release\OldFileRemover.exe.config
+C:\VS Projects\OldFileRemover\OldFileRemover\bin\Release\OldFileRemover.exe
+C:\VS Projects\OldFileRemover\OldFileRemover\bin\Release\OldFileRemover.pdb
+C:\VS Projects\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.ProjectInstaller.resources
+C:\VS Projects\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.csproj.GenerateResource.Cache
+C:\VS Projects\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.exe
+C:\VS Projects\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.pdb
+C:\VS Projects\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\VS Project\OldFileRemover\OldFileRemover\bin\Release\OldFileRemover.exe.config
+C:\Users\Home\Documents\VS Project\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.exe
+C:\Users\Home\Documents\VS Project\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\OldFileRemover\OldFileRemover\bin\Release\OldFileRemover.exe.config
+C:\Users\Home\Documents\Visual Studio 2013\Projects\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\OldFileRemover\OldFileRemover\bin\Release\OldFileRemover.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\OldFileRemover\OldFileRemover\bin\Release\OldFileRemover.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2013\Projects\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.ProjectInstaller.resources
+C:\Users\Home\Documents\Visual Studio 2013\Projects\OldFileRemover\OldFileRemover\obj\Release\OldFileRemover.csproj.GenerateResource.Cache
